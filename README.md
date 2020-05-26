@@ -1,0 +1,2 @@
+# DetectPangram
+Fundamental String Exercise
